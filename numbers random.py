@@ -15,8 +15,7 @@ for i in range(0,10):
             print("YOU LOSE")
     else:
         print("CONGRATS")
-        fail=0
-        
+        fail=0 
         break
 if fail==1:
     print("YOU LOSE")
